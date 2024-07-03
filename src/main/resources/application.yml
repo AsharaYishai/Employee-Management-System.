@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: root
+    password: 2003
+    url: jdbc:mysql://localhost:3306/ems_crm
+  jpa:
+    hibernate:
+      ddl-auto: update
